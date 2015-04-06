@@ -2,3 +2,4 @@ venv/
 input.csv
 output.txt
 trans.db
+.ropeproject/
